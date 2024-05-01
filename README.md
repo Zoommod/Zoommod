@@ -3,10 +3,10 @@
 Sou estudante de Ciências da Computação na UESC e um amante de hardware e suas tecnologias. Meu foco principal está no desenvolvimento de software e na aprendizagem constante.
 
 <a href="https://github.com/zoommod/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=zoommod&theme=tokyonight&hide=stars&show_icons=true&rank_icon=github" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=zoommod&theme=tokyonight&hide=stars&show_icons=true&rank_icon=github" />
 </a>
 <a href="https://github.com/zoommod/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoommod&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoommod&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 
