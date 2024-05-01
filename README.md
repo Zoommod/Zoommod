@@ -31,6 +31,6 @@ I'm a Computer Science student at UESC and a hardware enthusiast. My main focus 
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=event-checkin-app&theme=codeSTACKr)](https://github.com/zoommod/event-checkin-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wssfilho&repo=ProjectInterface&theme=codeSTACKr)](https://github.com/Wssfilho/ProjectInterface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=ecommerce-project&theme=codeSTACKr)](https://github.com/zoommod/ecommerce-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=event-checkin-app&theme=codeSTACKr&description_lines_count=3)](https://github.com/zoommod/event-checkin-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wssfilho&repo=ProjectInterface&theme=codeSTACKr&description_lines_count=3)](https://github.com/Wssfilho/ProjectInterface)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=ecommerce-project&theme=codeSTACKr&description_lines_count=3)](https://github.com/zoommod/ecommerce-project)
