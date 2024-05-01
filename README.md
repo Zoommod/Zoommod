@@ -1,6 +1,6 @@
-# Olá, sou Vitor!
+# Hello, I'm Vitor!
 
-Sou estudante de Ciências da Computação na UESC e um amante de hardware e suas tecnologias. Meu foco principal está no desenvolvimento de software e na aprendizagem constante.
+I'm a Computer Science student at UESC and a hardware enthusiast. My main focus is on software development and continuous learning.
 
 <a href="https://github.com/zoommod/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=zoommod&theme=codeSTACKr&hide=stars&show_icons=true&rank_icon=github" />
