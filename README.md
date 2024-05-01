@@ -31,6 +31,6 @@ Sou estudante de Ciências da Computação na UESC e um amante de hardware e sua
 
 ##
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=event-checkin-app)](https://github.com/zoommod/event-checkin-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wssfilho&repo=ProjectInterface)](https://github.com/Wssfilho/ProjectInterface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=ComercioEletronico)](https://github.com/zoommod/ComercioEletronico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=event-checkin-app&theme=tokyonight)](https://github.com/zoommod/event-checkin-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wssfilho&repo=ProjectInterface&theme=tokyonight)](https://github.com/Wssfilho/ProjectInterface)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=ComercioEletronico&theme=tokyonight)](https://github.com/zoommod/ComercioEletronico)
