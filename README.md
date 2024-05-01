@@ -33,4 +33,4 @@ Sou estudante de Ciências da Computação na UESC e um amante de hardware e sua
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=event-checkin-app&theme=codeSTACKr)](https://github.com/zoommod/event-checkin-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Wssfilho&repo=ProjectInterface&theme=codeSTACKr)](https://github.com/Wssfilho/ProjectInterface)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=ComercioEletronico&theme=codeSTACKr)](https://github.com/zoommod/ComercioEletronico)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zoommod&repo=ecommerce-project&theme=codeSTACKr)](https://github.com/zoommod/ecommerce-project)
