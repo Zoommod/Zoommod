@@ -9,7 +9,7 @@ Currently focused on the **.NET ecosystem**, **C#**, and mastering **Linux** env
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,linux,arch,docker,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,docker,git,linux,arch&theme=dark" />
 </div>
 
 <br>
