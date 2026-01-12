@@ -1,13 +1,10 @@
 # Hello, I'm Vitor!
 
-I'm an **Analysis and Systems Development (ADS)** student and a hardware enthusiast from Ilhéus, Bahia.
+I'm an **Analysis and Systems Development (ADS)** student and a hardware enthusiast.
 Currently focused on the **.NET ecosystem**, **C#**, and mastering **Linux** environments.
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zoommod&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoommod&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoommod&theme=tokyonight" />
 </div>
 
 <div align="center">
