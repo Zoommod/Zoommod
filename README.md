@@ -1,4 +1,4 @@
-# Hello, I'm Vitor!
+# Hello, I'm Vitor S!
 
 I'm an **Analysis and Systems Development (ADS)** student and a hardware enthusiast.
 Currently focused on the **.NET ecosystem**, **C#**, and mastering **Linux** environments.
