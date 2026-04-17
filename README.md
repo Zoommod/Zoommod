@@ -4,11 +4,19 @@ I'm an **Analysis and Systems Development (ADS)** student and a hardware enthusi
 Currently focused on the **.NET ecosystem**, **C#**, and mastering **Linux** environments.
 
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoommod&theme=tokyonight&layout=compact" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zoommod&theme=tokyonight" />
 </div>
 
+<br>
+
 <div align="center">
-  <br>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,django,docker,git,linux,arch&theme=dark" />
 </div>
 
